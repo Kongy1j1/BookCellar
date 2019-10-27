@@ -1,0 +1,46 @@
+* {
+  /* border: 1px solid green; */
+}
+
+.card {
+  height: 170px;
+}
+
+.card-body {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.card-title {
+  display: inline !important;
+}
+
+.card-text {
+  margin-bottom: 0;
+}
+
+.card-img {
+  display: block;
+  height: 140px;
+  width: 140px;
+  vertical-align: middle;
+  margin: auto;
+  object-fit: cover;
+}
+
+.listing {
+  padding: 15px;
+}
+
+.authors {
+  display: inline;
+}
+
+.date {
+  float: right;
+
+}
+
+.edition {
+  float: right;
+}
