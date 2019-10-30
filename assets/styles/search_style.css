@@ -2,8 +2,22 @@
   /* border: 1px solid green; */
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+#chat-button {
+  text-align: right;
+}
+
 .card {
   height: 170px;
+  margin-bottom: -1px;
 }
 
 .card-body {
@@ -37,10 +51,9 @@
 }
 
 .date {
-  float: right;
-
+  text-align: right;
 }
 
 .edition {
-  float: right;
+  text-align: right;
 }
